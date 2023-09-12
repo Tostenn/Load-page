@@ -77,7 +77,7 @@ main .info{
 }
 
 .info article .item::after{
-    background-image: url(https://github.com/Tostenn/Load-page/blob/main/Picsart_23-09-11_19-54-02-863.png);
+    background-image: url(https://github.com/Tostenn/Load-page/blob/main/img/Picsart_23-09-11_19-54-02-863.png);
     background-size: cover;
     top: -10px;
     left: -50px;
